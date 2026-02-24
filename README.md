@@ -1,6 +1,6 @@
 # Hi there, I'm Ahmed Ali Butt 👋
 
-I'm a Full-Stack Developer (MERN/PHP) with over 3 years of experience building production-grade applications. I specialize in creating scalable APIs, implementing secure authentication, and optimizing app performance for both front-end and back-end systems. My work has consistently led to tangible results, including a 40% improvement in app performance and a 25% increase in SEO traffic.
+I'm a Full-Stack Developer (MERN/PHP) with over 4 years of experience building production-grade applications. I specialize in creating scalable APIs, implementing secure authentication, and optimizing app performance for both front-end and back-end systems. My work has consistently led to tangible results, including a 40% improvement in app performance and a 25% increase in SEO traffic.
 
 ---
 
