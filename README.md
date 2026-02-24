@@ -8,30 +8,46 @@ I'm a Full-Stack Developer (MERN/PHP) with over 4 years of experience building p
 
 Here's a snapshot of my technical toolkit:
 
-* **Frontend**: JavaScript, TypeScript, React, CSS, Bootstrap, Tailwind CSS, HTML5, SEO.
-* **Backend**: Node.js, Express, RESTful APIs, PHP, C#, JWT, Gemini API.
-* **Databases**: MongoDB, MySQL, PostgreSQL.
-* **DevOps/Tools**: Docker, Git, Redux Toolkit, EJS, Render, Netlify, CI/CD, AWS (EC2, S3 concepts).
-* **Methodologies/Soft Skills**: Agile, OOPs, Teamwork, Communication.
+Backend & APIs: Node.js, Fastify, Express, RESTful APIs, JWT Authentication, Queues(BullMQ), WebSockets, PHP, C# 
+Frontend: JavaScript, TypeScript, React, Redux Toolkit, HTML5, CSS, Tailwind CSS, Bootstrap, SEO 
+Databases: MongoDB, PostgreSQL, MySQL, Redis, Prisma ORM 
+DevOps & Cloud: Docker, Kubernetes, GitHub Actions (CI/CD), AWS (EC2, S3, EKS), Render, Netlify 
+Tools & Practices: Swagger UI, OpenAPI, Git, EJS, Agile, OOP 
 
 ---
 
 ### 🔭 My Experience & Notable Projects
 
-#### **Freelance (Software Developer) | Feb 2024 - present**
-* **Montiyago**: Customized a Salla-based storefront for a Saudi client, improving UI responsiveness and layout. I delivered a production-ready site and worked closely with the client.
-* **Other Projects**: Optimized React/Node performance by 40% using code-splitting and deployed 5+ apps on cloud platforms with Docker. I also built secure JWT role-based authentication systems, which reduced breaches by 90%.
-
-#### **Bytelinx (Software Developer) | March 2023 - Feb 2024**
-* Developed full-stack solutions with PHP and MERN stack, improving site performance by 20%.
-* Implemented SEO strategies that boosted organic traffic by 25%.
-* Built an admin dashboard with role-based access control (RBAC), enhancing security.
+Rakeez Solutions(KSA) - Software Developer | Aug 2025 – Present 
+● Developed Fastify-based APIs with Prisma ORM and OpenAPI/Swagger for scalable backend systems. 
+● Automated CI/CD via GitHub Actions for 3+ projects, deploying reliably to AWS (EC2/S3). 
+● Implemented real-time data flow using WebSockets and Redis Pub/Sub for synchronous, multi-instance notifications. 
+● Worked on Kubernetes-deployed services, focusing on container orchestration and horizontal scaling. 
+Freelance - Software Developer | Feb 2024 – Aug 2025  
+● Optimized React and Node.js application performance by 40% through code-splitting. 
+● Delivered a customized Salla storefront for a KSA-based client. 
+● Automated deployment of 5+ applications with Docker containers to Render/Netlify. 
+● Built secure JWT role-based auth systems, reducing security breaches by 90%. 
+Bytelinx - Software Developer | March 2023 – Feb 2024  
+● Developed full-stack solutions using PHP and MERN stack, improving overall site performance by 20%. 
+● Implemented SEO strategies and built an admin dashboard with RBAC, increasing organic traffic by 25%. 
+Eversole - Software Developer | Jan 2022 – March 2023  
+● Developed CRUD API for a desktop application using the .NET framework and C#. 
+● Optimized application performance and managed SQL and NoSQL database integrations.
 
 #### **Featured Projects**
-
-* **E-commerce Site**: A MERN stack store handling over $10K in test transactions with Stripe payment and secure webhooks. The site features JWT auth with role-based access and an admin dashboard with Recharts analytics.
-* **Cineverse**: An AI-enhanced movie discovery platform using TMDB and Gemini APIs. This project boosted data efficiency by 40% with React Query caching and smart pagination and scored 80+ on Lighthouse with lazy loading and responsive images.
-* **Cloudnotes**: A secure MERN stack note-taking app with JWT authentication, bcrypt password hashing, and role-based access control. It supports cross-device accessibility with a responsive UI built with Tailwind CSS.
+Cineverse – Movie Discovery Platform | [Live-Demo] | [Github] 
+● Deployed the application on AWS EC2 using Docker and Kubernetes for scalability and high availability. 
+● Set up GitHub Actions CI/CD to automate testing and deployment workflows. 
+● Integrated TMDB and Gemini APIs to provide AI-enhanced movie insights with JWT-based authentication. 
+● Improved data efficiency by 40% using React Query caching, achieving 80+ Lighthouse scores through lazy loading. 
+E-commerce Site | [Live-Demo] | [Github] 
+● MERN stack store with Stripe payment, handling over $10K in test transactions with secure webhook validations. 
+● Built an admin dashboard with Recharts analytics, reducing reporting time by 65%. 
+● Improved frontend performance by 35% using Redux Toolkit optimization, with MongoDB Atlas queries under 250ms. 
+Cloudnotes – Secure Note-Taking App | [Live-Demo] | [Github] 
+● Developed a full-stack MERN application with JWT authentication and role-based access control. 
+● Implemented secure password hashing using bcrypt with salt for user data protection. 
 
 ---
 
