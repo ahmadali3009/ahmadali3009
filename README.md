@@ -85,6 +85,7 @@ Backend services for hospital management system using .NET Core, C#, SQL Server,
 ### 🤝 Let's Connect
 
 - 📧 **Email:** abutt3009@gmail.com
+- 📧 **Phone:** 0559875408
 - 💼 **LinkedIn:** [linkedin.com/in/ahmedali3009](https://www.linkedin.com/in/ahmedali3009/)
 - 🌐 **Portfolio:** [ahmedaliporfolio3009.netlify.app](https://ahmedaliporfolio3009.netlify.app)
 - 📍 **Location:** Riyadh, KSA — Iqama Transferable
